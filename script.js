@@ -1,4 +1,4 @@
-// MÜKEMMEL SAYI = 6' NIN BÖLENLERİ = 1 2 3 6 BUNLARI TOPLA = 12 6*2 = 12
+// MÜKEMMEL SAYI = 6' NIN BÖLENLERİ = 1 2 3 6 BUNLARI TOPLA = 12 6 *2 = 12
 
 let inputNumber = Number(prompt('sayı giriniz'))
 
